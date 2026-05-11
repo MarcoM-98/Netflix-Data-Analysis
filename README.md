@@ -1,8 +1,8 @@
-# Marco Mosqueda - CS4379G
+# Netflix Data Analysis & Visualization
  This repository contains the data for my Assignment 1, which includes a structured notebook and the documentation of the project.
- The goal is to be able to read the data from netflix and make a visual graph
+ The goal of this project is to clean, process, and visualize Netflix dataset trends using Python, Pandas, Matplotlib, and Seaborn.
  notebooks/analysis.ipynb - is the main file that contains the data cleaning and analysis
- data/ - is the directory with the netflix data
+ data/ - is the directory with the Netflix data
  .gitignore - a file designated to ignore certain files
 
  # How to run
